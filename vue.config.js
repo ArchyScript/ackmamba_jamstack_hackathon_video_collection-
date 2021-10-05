@@ -3,6 +3,6 @@ module.exports = {
     'vuetify'
   ],
   publicPath: process.env.NODE_ENV === 'production'
-    ? '/hackmamba_jamstack_hackathon_video_collection/'
+    ? '/hackmamba_jamstack_hackathon_video_collection/dist/'
     : '/'
 }
